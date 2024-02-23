@@ -1,7 +1,7 @@
 # Gold Medal Metrics Challenge Project
 
 ### Overview
-In this project, you will use Spring Data JPA to power an Olympics analytics web app.
+This is the completed Gold Medal JPA Spring Challenge project from Codecadmy. The API calls listed below successfully call the JPA query methods created from the repositories
 
 ### Testing
 You can use cURL to manually test your API endpoints.
